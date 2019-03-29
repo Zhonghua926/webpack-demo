@@ -1,0 +1,3 @@
+- npm i
+- npm run build  // 打包文件
+- npm run dev // 运行demo
