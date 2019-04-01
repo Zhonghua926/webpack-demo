@@ -1,3 +1,3 @@
-- npm i  // 下载依赖包
+- npm i  // 下载依赖
 - npm run build  // 打包文件
 - npm run dev // 运行demo
